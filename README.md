@@ -1,5 +1,6 @@
 # Guía Hoteles
-##Página Web responsive
+
+**Página Web responsive**
 
 **Lenguajes utlizados:** HTML, CSS, JavaScript, Jquery.  
 **Framework para estilos:** Bootstrap.  
