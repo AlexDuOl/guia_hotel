@@ -1,6 +1,3 @@
-$(function() {
-    $('.lazy').Lazy();
-});
 
 $(function() {
     $('[data-toggle="tooltip"]').tooltip()
